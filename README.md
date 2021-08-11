@@ -15,10 +15,11 @@ Projeto desenvolvido na next level week together
 <h1>🧪 Technologies</h1>
 <p>This project was developed using the following technologies:</p>
 <ul>
-  <li><a href="https://yarnpkg.com/">Yarn</a></li>
-  <li><a href="https://firebase.google.com/?gclid=CjwKCAjwoNuGBhA8EiwAFxomA28ETnjysL_29JbWPMLxarJ3EcGmzgoX9m4ScIfC8yv258BPp0LB_xoCoZUQAvD_BwE&gclsrc=aw.ds">Firebase</a></li>
-  <li><a href="https://reactjs.org/">ReactJS</a></li>
-  <li><a href="https://nodejs.org/en/">NodeJS</a></li>
+  <li><a href="https://devdocs.io/html/">HTML</a></li>
+  <li><a href="https://devdocs.io/css/">CSS</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">Javascript</a></li>
+  <li><a href="https://swiperjs.com/">Swiper</a></li>
+  <li><a href="https://scrollrevealjs.org/">ScrollReveal</a></li>
   <li><a href="https://git-scm.com/">Git</a></li>
 </ul>
 <h1>🖥 Get Started</h1>
