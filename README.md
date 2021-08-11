@@ -24,3 +24,13 @@ Projeto desenvolvido na next level week together
 </ul>
 <h1>🖥 Get Started</h1>
 <p>Clone this project and access folder:</p>
+<code>
+$ git clone https://github.com/Eduardosbk/pizzaplanet
+</code>
+<br>
+<code>
+$ cd pizzaplanet
+
+<hr>
+<h4 align="center">Made with 💜 by Eduardo Candido.</h4>
+
