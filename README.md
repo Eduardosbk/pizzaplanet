@@ -1,6 +1,8 @@
 # pizzaplanet
 Projeto desenvolvido na next level week together
 <hr>
+<p>Aprendi muito CSS com esse projeto, utilizamos bastante flexbox e grid que inclusive já
+sabia que podiam ser usados juntos mas nunca tinha colocado em prática</p><br>
 
 <h2 align="center">
 <img align="center" width="200px" src="https://github.com/Eduardosbk/pizzaplanet/blob/main/pizzaplanetlogo.png">
